@@ -1,0 +1,34 @@
+PODS:
+  - Flutter (1.0.0)
+  - UMCommon (7.3.0):
+    - UMDevice
+  - UMDevice (2.0.1)
+  - umeng_common_sdk (0.0.1):
+    - Flutter
+    - UMCommon
+    - UMDevice
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - umeng_common_sdk (from `.symlinks/plugins/umeng_common_sdk/ios`)
+
+SPEC REPOS:
+  trunk:
+    - UMCommon
+    - UMDevice
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  umeng_common_sdk:
+    :path: ".symlinks/plugins/umeng_common_sdk/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 434fef37c0980e73bb6479ef766c45957d4b510c
+  UMCommon: d654d43e83dcccb3dbb95d97f7b88045733a1380
+  UMDevice: f9ed639486a73620bc7c800d1657f110df50c3e1
+  umeng_common_sdk: a8abd7f86dfd013dbbeeae587ee143760c6582f2
+
+PODFILE CHECKSUM: 8e679eca47255a8ca8067c4c67aab20e64cb974d
+
+COCOAPODS: 1.10.1
